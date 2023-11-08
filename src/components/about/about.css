@@ -1,0 +1,11 @@
+.about{
+    
+    min-height: 350px;
+   
+    border-radius: 10px;
+}
+
+.about-text{
+    background-color:#1f201d;
+    padding: 30px;
+}
